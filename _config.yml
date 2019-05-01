@@ -18,7 +18,7 @@ minimal_mistakes_skin    : mint # "air", "aqua", "contrast", "dark", "dirt", "ne
 locale                   : Korean
 title                    : hyeleeie's Blog
 title_separator          : "-"
-name                     : "hyeleeie"
+name                     : hyeleeie's Blog
 description              : An amazing website.
 url                      : "https://hyeleeie.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -108,8 +108,8 @@ analytics:
 author:
   name             : hyeleeie
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : 공부하는 분석가
-  location         : Somewhere
+  bio              : Data Analyst
+  location         : Pangyo, Korea
   email            :
   links:
     - label: "Email"
