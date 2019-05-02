@@ -4,7 +4,7 @@ main:
     url: https://hyeleeie.github.io
   - title: "Categories"
     url: /categories/    
-  - title: "tags"
+  - title: "Tags"
     url: /tags/       
   - title: "About"
     url: /about/
