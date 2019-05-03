@@ -1,9 +1,10 @@
 ---
 title: "My first post in github.io"
-date: 2019-05-01 21:47:28 -0400
-categories: post
+date: 2019-05-01 00:00:00
+tags: test
 ---
 
-reference
-https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html
-https://github.com/mmistakes/minimal-mistakes/blob/master/README.md
+### reference  
+------------------------------------------------------------------    
+* https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html  
+* https://github.com/mmistakes/minimal-mistakes/blob/master/README.md  
