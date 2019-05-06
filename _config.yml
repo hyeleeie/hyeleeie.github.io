@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : mint # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : contrast # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : Korean
-title                    : hyeleeie's Blog
+title                    : Hyelee's Blog
 title_separator          : "-"
-name                     : hyeleeie
-description              : This is personal website.
+name                     : Hyelee's Blog
+description              : This is a personal website.
 url                      : "https://hyeleeie.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : hyeleeie
+  name             : Hyelee
   avatar           : /assets/images/emotion.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Data Analyst
+  bio              : motivated data analyst
   location         : Pangyo, Korea
   email            :
   links:
