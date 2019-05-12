@@ -16,7 +16,7 @@ minimal_mistakes_skin    : mint # "air", "aqua", "contrast", "dark", "dirt", "ne
 
 # Site Settings
 locale                   : Korean
-title                    : 혜리의 블로그
+title                    : 혜리의 ㄸㄷㄸㄷ
 title_separator          : "-"
 name                     : Hyelee's Blog
 description              : This is personal website.
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : 혜리
   avatar           : /assets/images/emotion.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : Data analyst, project manager and motivated person :) 
+  bio              : data analyst, project manager and motivated person :D 
   location         : Pangyo, South Korea
   email            :
   links:
