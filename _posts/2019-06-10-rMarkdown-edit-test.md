@@ -1,6 +1,5 @@
 ---
 title: "rMarkDown-edit-test"
-output: github_document
 date: "2019-06-10 00:00:00"
 tags: test
 ---
