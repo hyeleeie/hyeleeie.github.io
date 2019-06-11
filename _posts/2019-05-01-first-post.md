@@ -8,3 +8,9 @@ tags: test
 ------------------------------------------------------------------    
 * https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html  
 * https://github.com/mmistakes/minimal-mistakes/blob/master/README.md  
+
+
+### Github Pages 블로그 따라하기  
+-------------------------------------------------------------------  
+* https://devinlife.com/howto/  
+
