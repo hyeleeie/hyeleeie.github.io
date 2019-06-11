@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme : mmistakes/minimal-mistakes
-minimal_mistakes_skin    : contrast # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : dirt # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : Korean
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : Hailey
   avatar           : /assets/images/emotion.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : data analyst, project manager and motivated person.
+  bio              : 호기심,집착,끈기,코딩,스토리,디자인을 합치면 데이터분석가가 됩니다.
   location         : Pangyo, South Korea
   email            :
   links:
