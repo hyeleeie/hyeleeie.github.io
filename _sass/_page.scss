@@ -38,6 +38,9 @@
     margin-right: 0;
     width: 100%;
     clear: both;
+    font-family: $global-font-family; 
+    font-size: $type-size-6;
+    color: lighten($text-color, 50%); 
 
     .page__content,
     .page__meta,
