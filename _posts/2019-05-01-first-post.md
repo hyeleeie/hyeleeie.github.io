@@ -1,6 +1,6 @@
 ---
 title: "My first post in github.io"
-date: 2019-05-01 00:00:00
+date: "2019-05-01 00:00:00"
 tags: test
 ---
 
